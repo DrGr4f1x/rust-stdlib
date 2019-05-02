@@ -1,0 +1,8 @@
+[package]
+name = "chapter-one"
+version = "0.1.0"
+authors = ["davee"]
+edition = "2018"
+
+[dependencies]
+rand = "0.3"
